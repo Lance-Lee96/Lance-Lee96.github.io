@@ -1,5 +1,5 @@
 # My Portfolio
-This is a customized portfolio based on a [template](https://github.com/original-template-link).
+This is a customized portfolio based on a [template](https://github.com/cotes2020/jekyll-theme-chirpy/).
 
 ## Features
 - Interactive sections
